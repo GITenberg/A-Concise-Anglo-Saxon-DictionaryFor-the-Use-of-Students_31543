@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35311'
     url: http://www.gutenberg.org/2009/agents/35311
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31543#A-Concise-Anglo-Saxon-DictionaryFor-the-Use-of-Students
 gutenberg_issued: '2010-03-07'
 gutenberg_type: Text
 identifiers:
