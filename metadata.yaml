@@ -1,0 +1,28 @@
+_repo: A-Concise-Anglo-Saxon-DictionaryFor-the-Use-of-Students_31543
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hall, J. R. Clark (John R. Clark)
+    alias: Hall, John R. Clark
+    birthdate: 1855
+    gutenberg_agent_id: '35311'
+    url: http://www.gutenberg.org/2009/agents/35311
+description: ''
+gutenberg_issued: '2010-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31543'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Old English, ca. 450-1100 -- Dictionaries'
+- !lcc 'PE'
+title: 'A Concise Anglo-Saxon Dictionary
+
+  For the Use of Students'
+url: http://www.gutenberg.org/ebooks/31543
